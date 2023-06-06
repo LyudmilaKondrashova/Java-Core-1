@@ -1,0 +1,3 @@
+javac -sourcepath ./src -d out src/ru/gb/jcore/sample/Main.java
+
+java -classpath ./out ru/gb/jcore/sample/Main
